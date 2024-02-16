@@ -5,7 +5,7 @@
     <img width="50%" src="https://user-images.githubusercontent.com/58366066/210724934-c15a41ba-b6a0-4990-b4dd-285e4e99a91d.gif">
 </p>
 
-* 👦 Burmese and from Myanmar (Yangon-based). 
+* 👦 Burmese and from Myanmar (Edinburgh-based). 
 * 💻 Emphasized professionalism in IT fields.
 * 🌏 Passionate in frontend web development (ReactJS).
 * 🎨 Also love in designing and crafting web app. 
