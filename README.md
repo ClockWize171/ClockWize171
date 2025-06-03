@@ -9,7 +9,7 @@
 * 💻 Emphasized professionalism in IT fields.
 * 🌏 Passionate in frontend web development (ReactJS).
 * 🎨 Also love in designing and crafting web app. 
-* 👨‍💻 All of my projects are available in my [portfolio](https://thet-min-htin.vercel.app/).
+* 👨‍💻 All of my projects are available in my [portfolio](https://thet-min-htin.dev/).
 
 
 
